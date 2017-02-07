@@ -1,5 +1,5 @@
 # Puzzler-vr
-This is a training project for Udacity [VR Nanodegree](https://www.udacity.com/course/vr-developer-nanodegree--nd017) (course4)._
+This is a training project for Udacity [VR Nanodegree](https://www.udacity.com/course/vr-developer-nanodegree--nd017) (course4)
 
 Puzzler is a mobile application in which user can solve a familiar type of puzzle in a VR environment. detailed information about the Puzzler app and the process of its development.
 
